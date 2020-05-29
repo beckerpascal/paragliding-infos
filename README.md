@@ -16,6 +16,13 @@ This should just help you to find all information at a glance.
 ## Bavaria
 
 * Buchenberg
+  * [DHV Details Buchenberg](https://www.dhv.de/db2/details.php?qi=glp_details&item=408)
+  * [Information about the spot](https://www.buchenbergbahn.de/sommer/drachen-gleitschirmfliegen/fluginformationen-buchenberg.html)
+  * Wind direction: NW, N-NO
+  * [Paraglidable](https://paraglidable.com/?lat=47.543&lon=10.760&zoom=10)
+  * [Holfuy Wind Sensor](https://holfuy.com/de/data/511)
+  * [Video from the spot](https://www.youtube.com/watch?v=NoMOrcA8gws&t=27s)
+  * Necessary documents: ["Grüne Karte"](https://www.breitenbergbahn.de/fileadmin/PDF/Buchenberg/Flug-_und_Betriebsordnung/einweisung.pdf)
 * Tegelberg
 
 # France
