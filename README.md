@@ -23,6 +23,7 @@ This should just help you to find all information at a glance.
   * [Paraglidable](https://paraglidable.com/?lat=47.543&lon=10.760&zoom=10)
   * [Holfuy Wind Sensor](https://holfuy.com/de/data/511)
   * [Video from the spot](https://www.youtube.com/watch?v=NoMOrcA8gws&t=27s)
+  * [DHV XC Leonardo](https://www.dhv-xc.de/leonardo/index.php?op=list_flights&takeoffID=8838)
 * Tegelberg
 
 # France
