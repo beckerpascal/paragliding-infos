@@ -24,7 +24,7 @@ This should just help you to find all information at a glance.
   * [Holfuy Wind Sensor](https://holfuy.com/de/data/511)
   * [Video from the spot](https://www.youtube.com/watch?v=NoMOrcA8gws&t=27s)
   * [DHV XC Leonardo](https://www.dhv-xc.de/leonardo/index.php?op=list_flights&takeoffID=8838)
-  * ![Signboard at landing](https://github.com/beckerpascal/paragliding-infos/images/buchenberg_landing_sign.jpg)
+  * ![Signboard at landing](https://github.com/beckerpascal/paragliding-infos/blob/master/images/buchenberg_landing_sign.jpg)
 * Tegelberg
 
 # France
