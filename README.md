@@ -28,7 +28,7 @@ This should just help you to find all information at a glance.
   * Necessary documents: ["Grüne Karte"](https://www.breitenbergbahn.de/fileadmin/PDF/Buchenberg/Flug-_und_Betriebsordnung/einweisung.pdf)
   * [Information about the spot](https://www.buchenbergbahn.de/sommer/drachen-gleitschirmfliegen/fluginformationen-buchenberg.html)
   * [Meteo Parapente](https://www.meteo-parapente.com/#/47.6066,10.8112,15)
-  * [Paraglidable](https://paraglidable.com/?lat=47.543&lon=10.760&zoom=10)
+  * [Paraglidable](https://paraglidable.com/?lat=47.543&lon=10.760&zoom=12)
   * [Holfuy Wind Sensor](https://holfuy.com/de/data/511)
   * [Video from the spot](https://www.youtube.com/watch?v=NoMOrcA8gws&t=27s)
   * [DHV XC Leonardo](https://www.dhv-xc.de/leonardo/index.php?op=list_flights&takeoffID=8838)
