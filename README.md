@@ -42,8 +42,10 @@ This should just help you to find all information at a glance.
 * [DHV Details Teufelsmühle](https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=191)
 * [Spot information](https://www.teufels-flieger.de/hpdgl/index.php/ct-menu-item-23/ct-menu-item-27)
 * [Guest information](https://www.teufels-flieger.de/hpdgl/index.php/ct-menu-item-23/ct-menu-item-33)
+* [Webcam West](http://teufelscam.dyndns.org/cam/latest/latest.jpg)
 * [Meteo Parapente](https://www.meteo-parapente.com/#/48.7574,8.4033,14)
 * [Paraglidable](https://paraglidable.com/?lat=48.744&lon=8.391&zoom=12)
+* [Weather data](http://teufelswetter.dyndns.org/)
 * [DHV XC Leonardo](https://www.dhv-xc.de/leonardo/index.php?op=list_flights&takeoffID=9547)
 
 ## Bavaria
