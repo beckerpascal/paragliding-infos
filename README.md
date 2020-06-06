@@ -10,7 +10,15 @@ This should just help you to find all information at a glance.
 
 ## Baden-Wuerttemberg
 
-* Merkur (Baden-Baden)
+* Merkur (NO, W)
+  * [DHV Details Merkur](https://www.dhv.de/db2/details.php?qi=glp_details&popup=1&item=987)
+  * [Spot information West](https://www.schwarzwaldgeier.de/startplatz-west/)
+  * [Spot information North-East](https://www.schwarzwaldgeier.de/startplatz-nordost/)
+  * [Guest information](https://www.schwarzwaldgeier.de/gastflugregeln/)
+  * [Meteo Parapente](https://www.meteo-parapente.com/#/48.7647,8.2794,15)
+  * [Paraglidable](https://paraglidable.com/?lat=48.764&lon=8.251&zoom=12)
+  * [Weather data](https://www.schwarzwaldgeier.de/wetterstation-merkur/)
+  * [DHV XC Leonardo](https://www.dhv-xc.de/leonardo/index.php?op=list_flights&takeoffID=9543)
 * Teufelsmühle (Loffenau)
 
 ## Bavaria
