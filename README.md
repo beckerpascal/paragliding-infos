@@ -1,5 +1,22 @@
 # Paragliding Infos at a Glance
 
+- [Paragliding Infos at a Glance](#paragliding-infos-at-a-glance)
+- [Germany](#germany)
+  - [Baden-Wuerttemberg](#baden-wuerttemberg)
+    - [Merkur (NO, NW)](#merkur-no-nw)
+    - [Teufelsmühle (W, NW)](#teufelsmühle-w-nw)
+  - [Bavaria](#bavaria)
+    - [Buchenberg (NW, NNO)](#buchenberg-nw-nno)
+    - [Tegelberg](#tegelberg)
+- [France](#france)
+  - [Vosges](#vosges)
+    - [Le Treh / Markstein](#le-treh--markstein)
+    - [Drumont](#drumont)
+    - [Gusti](#gusti)
+    - [Siebach](#siebach)
+- [Spain](#spain)
+  - [Catalonia](#catalonia)
+
 This repository is a curated list of interesting spots for paragliders.
 It contains multiple flying sites as well as links for further information like the weather, webcam, flying club, lift homepages, etc.
 
