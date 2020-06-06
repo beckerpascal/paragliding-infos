@@ -23,7 +23,7 @@ This should just help you to find all information at a glance.
 
 ## Bavaria
 
-* Buchenberg (NW, N-NO)
+* Buchenberg (NW, NNO)
   * [DHV Details Buchenberg](https://www.dhv.de/db2/details.php?qi=glp_details&item=408)
   * Necessary documents: ["Grüne Karte"](https://www.breitenbergbahn.de/fileadmin/PDF/Buchenberg/Flug-_und_Betriebsordnung/einweisung.pdf)
   * [Information about the spot](https://www.buchenbergbahn.de/sommer/drachen-gleitschirmfliegen/fluginformationen-buchenberg.html)
