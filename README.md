@@ -32,6 +32,7 @@ This should just help you to find all information at a glance.
 * [Spot information West](https://www.schwarzwaldgeier.de/startplatz-west/)
 * [Spot information North-East](https://www.schwarzwaldgeier.de/startplatz-nordost/)
 * [Guest information](https://www.schwarzwaldgeier.de/gastflugregeln/)
+* [Webcam](http://sportclubcam1.swr.de/local/)
 * [Meteo Parapente](https://www.meteo-parapente.com/#/48.7647,8.2794,15)
 * [Paraglidable](https://paraglidable.com/?lat=48.764&lon=8.251&zoom=12)
 * [Weather data](https://www.schwarzwaldgeier.de/wetterstation-merkur/)
